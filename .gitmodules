@@ -1,0 +1,6 @@
+[submodule "HR_Backend"]
+	path = HR_Backend
+	url = https://github.com/Salma9507/HR_Backend.git
+[submodule "HR_Frontend"]
+	path = HR_Frontend
+	url = https://github.com/Salma9507/HR_Frontend.git
