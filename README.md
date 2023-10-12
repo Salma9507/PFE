@@ -1,1 +1,1 @@
-# Human Ressource management application built using spring boot 4 , angular 16 and MySQL
+# Human Ressource management application built using spring boot4 , angular16 and MySQL
